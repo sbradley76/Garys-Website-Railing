@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9ba9ad"/><stop offset="1" stop-color="#d7d4cb"/></linearGradient><linearGradient id="glass" x1="0" x2="1"><stop stop-color="#65777e" stop-opacity=".7"/><stop offset="1" stop-color="#b6c2c3" stop-opacity=".45"/></linearGradient><filter id="grain"><feTurbulence baseFrequency=".8" numOctaves="3" stitchTiles="stitch"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .08 0"/></filter></defs>
+<rect width="1000" height="1200" fill="url(#sky)"/><rect y="860" width="1000" height="340" fill="#565e5e"/><path d="M95 270h810v640H95z" fill="#d9d3c6"/><path d="M145 330h710v500H145z" fill="#24333a"/>
+<g fill="url(#glass)" stroke="#cbd3d2" stroke-width="10"><rect x="185" y="365" width="280" height="190"/><rect x="535" y="365" width="280" height="190"/><rect x="185" y="605" width="280" height="170"/><rect x="535" y="605" width="280" height="170"/></g>
+<g stroke="#181f23" stroke-width="18" fill="none"><path d="M115 890h770"/><path d="M140 660h720"/><path d="M140 430h720"/><path d="M140 865V390M860 865V390"/></g>
+<g stroke="#252d31" stroke-width="9"><path d="M200 865V390M270 865V390M340 865V390M410 865V390M480 865V390M550 865V390M620 865V390M690 865V390M760 865V390M830 865V390"/></g>
+<path d="M0 1040 1000 930v270H0z" fill="#31393b"/><rect width="1000" height="1200" filter="url(#grain)" opacity=".4"/><text x="60" y="1135" fill="#f4eee3" font-family="Arial" font-size="24" letter-spacing="6">PLACEHOLDER · COMMERCIAL BALCONY SYSTEM</text>
+</svg>
